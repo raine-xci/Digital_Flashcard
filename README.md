@@ -1,5 +1,2 @@
 # Digital_Flashcard
-Custom hardware for digital flashcards
-
-
-## Parts List
+Custom hardware and software for digital flashcards
